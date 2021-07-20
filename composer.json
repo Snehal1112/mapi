@@ -1,0 +1,13 @@
+{
+    "name": "e4a-mapi/mapi",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "snehal",
+            "email": "sd@sd.com"
+        }
+    ],
+    "require": {}
+}
